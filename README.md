@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Brandon-valdez/Brandon-valdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="banner.png" width="1200" height="400">
 
-Here are some ideas to get you started:
+💻 **Desarrollador de software** apasionado por crear soluciones sólidas, escalables y bien estructuradas.  
+Trabajo con tecnologías **backend, frontend**, manteniendo un enfoque en la **arquitectura limpia y rendimiento**, cuento con experiencia en leguajes como **PHP, C# y Python**.Actualmente me encuentro aprendiendo Java tanto en el área web como en el área movil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## 📫 Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+
+
+
+---

@@ -5,7 +5,7 @@
 
 💻 Desarrollador de software apasionado por crear soluciones sólidas, escalables y bien estructuradas.
 
-Soy Técnico en Desarrollo de Software y actualmente estudiante de Ingeniería en desarrollo de software, enfocado en seguir fortaleciendo mis conocimientos y habilidades en distintas áreas del desarrollo.
+Soy Técnico en Ingeniería en Desarrollo de Software y actualmente estudiante de Ingeniería en desarrollo de software, enfocado en seguir fortaleciendo mis conocimientos y habilidades en distintas áreas del desarrollo.
 
 Tengo experiencia en tecnologías backend y frontend, manteniendo un enfoque en arquitectura limpia, rendimiento y buenas prácticas de desarrollo. He trabajado con lenguajes como PHP, C#, Python y Java.
 
